@@ -14,3 +14,7 @@ Java · Spring Boot · React · MySQL · Machine Learning
 ## Featured Project
 
 - [pcod-pcos-prediction](https://github.com/rudra1123/pcod-pcos-prediction) — Cognitive Analytics in Healthcare: PCOD/PCOS prediction using ensemble ML (Java Spring Boot + React + MySQL).
+
+## Contact
+
+- 📧 rudraprataps7557@gmail.com

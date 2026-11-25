@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rudra Pratap Singh 👋
 
-<!--
-**rudra1123/rudra1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech IT final-year student at Galgotias College of Engineering and Technology, Greater Noida.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Gen AI & Java development** — building practical applications with modern AI and Java technologies.
+- **ARKIVE** — a Hindi documentary YouTube channel exploring history's mysteries.
+- **PCOD/PCOS Prediction** — an ensemble ML project for early PCOD/PCOS risk prediction, built with Java Spring Boot, React, and MySQL, with 88.89% measured accuracy.
+
+## Tech Stack
+
+Java · Spring Boot · React · MySQL · Machine Learning
+
+## Featured Project
+
+- [pcod-pcos-prediction](https://github.com/rudra1123/pcod-pcos-prediction) — Cognitive Analytics in Healthcare: PCOD/PCOS prediction using ensemble ML (Java Spring Boot + React + MySQL).
